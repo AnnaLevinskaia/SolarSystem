@@ -1,6 +1,8 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("The Basic Structure is Ready please write down your code in this " +
-                "project");
+SolarSystem Bob=new SolarSystem();
+Bob.moon=2;
+Bob.planets=10;
+Bob.sun=1;
     }
 }
